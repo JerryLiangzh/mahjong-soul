@@ -1,5 +1,5 @@
-# mahjong-soul-resources
-A collection of resources related to **Mahjong Soul**. For personal study only
+# Mahjong Soul Resources
+A collection of resources related to **Japanese Mahjong**. Name of this repo comes from a famous, beginner-friendly platform, [Mahjong Soul](https://www.maj-soul.net/#/home). Also useful for other Japanese Mahjong platforms like [Tenhou/天鳳/天凤](https://tenhou.net/). For personal study only
 
 **References**
 
