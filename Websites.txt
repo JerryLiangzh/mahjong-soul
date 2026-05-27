@@ -1,0 +1,19 @@
+日麻工具和辅助网站：
+
+1. 雀魂牌谱屋 [查雀魂数据，查牌谱]
+https://amae-koromo.sapk.ch/
+
+2. nodocchi [查天凤数据，查牌谱]
+https://nodocchi.moe/tenhoulog/
+
+3. 雀魂安定段位计算器 [算安定段位，可以随便填数据]
+https://xcoder.cc/qh
+
+4. 雀魂详细牌谱数据分析工具 [超详细的数据分析，你想知道的数据，这里都能算出来]
+https://ngabbs.com/read.php?tid=17007935&_fp=2
+
+5. 根据牌效来做出判断的何切工具 [填手牌告诉你怎么切]
+http://kobalab.net/majiang/dapai.html
+
+6. 门清狂[训练自己在没有听牌提示的情况下，能不能做出正确的何切判断]
+http://hinakin.main.jp/mckonweb/index.htm
