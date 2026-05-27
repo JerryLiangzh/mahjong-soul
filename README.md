@@ -1,5 +1,5 @@
-# mahjong-soul
-A collection of books related to **Mahjong Soul**. For personal study only
+# mahjong-soul-resources
+A collection of resources related to **Mahjong Soul**. For personal study only
 
 **References**
 
