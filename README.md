@@ -1,2 +1,2 @@
 # mahjong-soul
-For personal study only
+A collection of books related to **Mahjong Soul**. For personal study only
